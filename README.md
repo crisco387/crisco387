@@ -1,6 +1,6 @@
 # Welcome!
 ## About Me
-I'm a Junior studying CS @ UC Berkeley with particular interests in Software Engineering, Machine Learning, and Computer Security. Lover of [Bass 🎸](https://www.instagram.com/raon.cal/), Snowboarding 🏂, and Cooking 🧑‍🍳🍫.
+I'm a Junior studying CS @ UC Berkeley with particular interests in Software Engineering, Machine Learning, and Computer Security. Lover of [Bass 🎸](https://www.instagram.com/raon.cal/), Snowboarding, and Reading.
 
 ## Skills
 - Development: **Python**, **Java**, RISC-V, C, Go
